@@ -1,0 +1,206 @@
+model,factor,value
+Logistic,paperless_billing_No,0.110
+Logistic,payment_method_Credit card (automatic),0.086
+Logistic,partner_Yes,0.086
+Logistic,payment_method_Mailed check,0.085
+Logistic,tech_support_Yes,0.083
+Logistic,payment_method_Bank transfer (automatic),0.083
+Logistic,multiple_lines_No,0.080
+Logistic,total_charges,0.075
+Logistic,online_security_Yes,0.074
+Logistic,contract_One year,0.067
+Logistic,online_backup_Yes,0.064
+Logistic,dependents_Yes,0.063
+Logistic,partner_No,0.060
+Logistic,senior_citizen_No,0.060
+Logistic,contract_Two year,0.058
+Logistic,multiple_lines_Yes,0.055
+Logistic,paperless_billing_Yes,0.052
+Logistic,payment_method_Electronic check,0.050
+Logistic,device_protection_Yes,0.047
+Logistic,online_backup_No,0.038
+Logistic,streaming_tv_No,0.037
+Logistic,internet_service_DSL,0.036
+Logistic,device_protection_No,0.035
+Logistic,tech_support_No,0.034
+Logistic,streaming_movies_No internet service,0.033
+Logistic,streaming_tv_No internet service,0.033
+Logistic,device_protection_No internet service,0.033
+Logistic,online_backup_No internet service,0.033
+Logistic,tech_support_No internet service,0.033
+Logistic,online_security_No internet service,0.033
+Logistic,internet_service_No,0.033
+Logistic,senior_citizen_Yes,0.032
+Logistic,streaming_movies_No,0.032
+Logistic,streaming_tv_Yes,0.029
+Logistic,online_security_No,0.028
+Logistic,dependents_No,0.028
+Logistic,streaming_movies_Yes,0.024
+Logistic,contract_Month-to-month,0.022
+Logistic,multiple_lines_No phone service,0.020
+Logistic,monthly_charges,0.013
+Logistic,internet_service_Fiber optic,0.006
+K-Nearest Neighbors,total_charges,0.052
+K-Nearest Neighbors,monthly_charges,0.018
+K-Nearest Neighbors,payment_method_Mailed check,0.016
+K-Nearest Neighbors,payment_method_Electronic check,0.013
+K-Nearest Neighbors,payment_method_Credit card (automatic),0.012
+K-Nearest Neighbors,contract_One year,0.010
+K-Nearest Neighbors,dependents_No,0.010
+K-Nearest Neighbors,payment_method_Bank transfer (automatic),0.009
+K-Nearest Neighbors,contract_Month-to-month,0.009
+K-Nearest Neighbors,online_backup_Yes,0.008
+K-Nearest Neighbors,online_security_Yes,0.007
+K-Nearest Neighbors,tech_support_Yes,0.007
+K-Nearest Neighbors,contract_Two year,0.007
+K-Nearest Neighbors,online_security_No,0.007
+K-Nearest Neighbors,multiple_lines_No,0.006
+K-Nearest Neighbors,dependents_Yes,0.006
+K-Nearest Neighbors,online_backup_No,0.006
+K-Nearest Neighbors,partner_No,0.006
+K-Nearest Neighbors,tech_support_No,0.006
+K-Nearest Neighbors,paperless_billing_Yes,0.006
+K-Nearest Neighbors,partner_Yes,0.006
+K-Nearest Neighbors,paperless_billing_No,0.005
+K-Nearest Neighbors,senior_citizen_No,0.005
+K-Nearest Neighbors,multiple_lines_Yes,0.004
+K-Nearest Neighbors,device_protection_No,0.003
+K-Nearest Neighbors,device_protection_Yes,0.003
+K-Nearest Neighbors,streaming_tv_No,0.003
+K-Nearest Neighbors,internet_service_DSL,0.003
+K-Nearest Neighbors,streaming_movies_No,0.002
+K-Nearest Neighbors,streaming_tv_Yes,0.002
+K-Nearest Neighbors,multiple_lines_No phone service,0.001
+K-Nearest Neighbors,senior_citizen_Yes,0.001
+K-Nearest Neighbors,internet_service_Fiber optic,0.001
+K-Nearest Neighbors,streaming_movies_Yes,0.001
+K-Nearest Neighbors,tech_support_No internet service,0.000
+K-Nearest Neighbors,online_backup_No internet service,0.000
+K-Nearest Neighbors,online_security_No internet service,0.000
+K-Nearest Neighbors,internet_service_No,0.000
+K-Nearest Neighbors,device_protection_No internet service,0.000
+K-Nearest Neighbors,streaming_movies_No internet service,0.000
+K-Nearest Neighbors,streaming_tv_No internet service,0.000
+Random Forest,total_charges,0.130
+Random Forest,monthly_charges,0.053
+Random Forest,tech_support_No,0.030
+Random Forest,contract_Two year,0.030
+Random Forest,contract_Month-to-month,0.025
+Random Forest,payment_method_Electronic check,0.025
+Random Forest,online_security_No,0.023
+Random Forest,paperless_billing_No,0.023
+Random Forest,online_security_Yes,0.022
+Random Forest,contract_One year,0.019
+Random Forest,payment_method_Credit card (automatic),0.019
+Random Forest,tech_support_Yes,0.018
+Random Forest,partner_Yes,0.015
+Random Forest,payment_method_Mailed check,0.015
+Random Forest,payment_method_Bank transfer (automatic),0.014
+Random Forest,multiple_lines_No,0.013
+Random Forest,internet_service_Fiber optic,0.012
+Random Forest,online_backup_Yes,0.012
+Random Forest,partner_No,0.012
+Random Forest,online_backup_No,0.012
+Random Forest,streaming_movies_No,0.011
+Random Forest,dependents_Yes,0.011
+Random Forest,senior_citizen_No,0.010
+Random Forest,paperless_billing_Yes,0.010
+Random Forest,internet_service_DSL,0.009
+Random Forest,multiple_lines_Yes,0.009
+Random Forest,device_protection_No,0.009
+Random Forest,streaming_tv_No,0.008
+Random Forest,dependents_No,0.008
+Random Forest,device_protection_Yes,0.008
+Random Forest,senior_citizen_Yes,0.007
+Random Forest,streaming_movies_Yes,0.006
+Random Forest,streaming_tv_Yes,0.005
+Random Forest,multiple_lines_No phone service,0.001
+Random Forest,streaming_movies_No internet service,0.001
+Random Forest,streaming_tv_No internet service,0.000
+Random Forest,online_security_No internet service,0.000
+Random Forest,online_backup_No internet service,0.000
+Random Forest,internet_service_No,0.000
+Random Forest,tech_support_No internet service,0.000
+Random Forest,device_protection_No internet service,0.000
+Gradient Boosting,total_charges,0.128
+Gradient Boosting,monthly_charges,0.048
+Gradient Boosting,payment_method_Mailed check,0.024
+Gradient Boosting,payment_method_Electronic check,0.022
+Gradient Boosting,payment_method_Credit card (automatic),0.018
+Gradient Boosting,paperless_billing_No,0.017
+Gradient Boosting,payment_method_Bank transfer (automatic),0.016
+Gradient Boosting,multiple_lines_No,0.013
+Gradient Boosting,partner_Yes,0.011
+Gradient Boosting,partner_No,0.011
+Gradient Boosting,online_security_No,0.009
+Gradient Boosting,contract_Two year,0.009
+Gradient Boosting,contract_Month-to-month,0.009
+Gradient Boosting,paperless_billing_Yes,0.009
+Gradient Boosting,tech_support_Yes,0.009
+Gradient Boosting,senior_citizen_Yes,0.009
+Gradient Boosting,online_security_Yes,0.008
+Gradient Boosting,online_backup_No,0.008
+Gradient Boosting,tech_support_No,0.008
+Gradient Boosting,online_backup_Yes,0.008
+Gradient Boosting,senior_citizen_No,0.007
+Gradient Boosting,contract_One year,0.007
+Gradient Boosting,streaming_movies_No,0.007
+Gradient Boosting,multiple_lines_Yes,0.007
+Gradient Boosting,device_protection_No,0.006
+Gradient Boosting,streaming_tv_No,0.005
+Gradient Boosting,dependents_Yes,0.005
+Gradient Boosting,dependents_No,0.005
+Gradient Boosting,device_protection_Yes,0.004
+Gradient Boosting,internet_service_DSL,0.004
+Gradient Boosting,streaming_tv_Yes,0.003
+Gradient Boosting,streaming_movies_Yes,0.003
+Gradient Boosting,internet_service_Fiber optic,0.002
+Gradient Boosting,tech_support_No internet service,0.001
+Gradient Boosting,internet_service_No,0.001
+Gradient Boosting,online_security_No internet service,0.000
+Gradient Boosting,online_backup_No internet service,0.000
+Gradient Boosting,device_protection_No internet service,0.000
+Gradient Boosting,streaming_movies_No internet service,0.000
+Gradient Boosting,streaming_tv_No internet service,0.000
+Gradient Boosting,multiple_lines_No phone service,0.000
+Logistic2,total_charges,0.083
+Logistic2,internet_service_Fiber optic,0.012
+Logistic2,contract_Month-to-month,0.010
+Logistic2,internet_service_DSL,0.007
+Logistic2,contract_Two year,0.004
+Logistic2,payment_method_Electronic check,0.003
+Logistic2,streaming_tv_Yes,0.002
+Logistic2,payment_method_Credit card (automatic),0.001
+Logistic2,online_security_Yes,0.001
+Logistic2,online_backup_No,0.001
+Logistic2,monthly_charges,0.000
+Logistic2,senior_citizen_No,0.000
+Logistic2,senior_citizen_Yes,0.000
+Logistic2,partner_No,0.000
+Logistic2,partner_Yes,0.000
+Logistic2,payment_method_Bank transfer (automatic),-0.000
+Logistic2,contract_One year,-0.000
+Logistic2,streaming_tv_No,-0.000
+Logistic2,tech_support_Yes,-0.000
+Logistic2,paperless_billing_No,-0.000
+Logistic2,multiple_lines_No phone service,-0.000
+Logistic2,online_security_No,-0.000
+Logistic2,paperless_billing_Yes,-0.001
+Logistic2,tech_support_No,-0.001
+Logistic2,device_protection_No,-0.001
+Logistic2,streaming_movies_No,-0.001
+Logistic2,dependents_No,-0.001
+Logistic2,dependents_Yes,-0.001
+Logistic2,online_backup_Yes,-0.002
+Logistic2,streaming_movies_Yes,-0.002
+Logistic2,device_protection_Yes,-0.002
+Logistic2,online_security_No internet service,-0.003
+Logistic2,internet_service_No,-0.003
+Logistic2,streaming_movies_No internet service,-0.003
+Logistic2,tech_support_No internet service,-0.003
+Logistic2,online_backup_No internet service,-0.003
+Logistic2,device_protection_No internet service,-0.003
+Logistic2,streaming_tv_No internet service,-0.003
+Logistic2,multiple_lines_No,-0.003
+Logistic2,payment_method_Mailed check,-0.003
+Logistic2,multiple_lines_Yes,-0.005

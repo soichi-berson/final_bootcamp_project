@@ -1,0 +1,206 @@
+model,factor,value
+Logistic,paperless_billing_No,0.1101210653753026
+Logistic,payment_method_Credit card (automatic),0.0864406779661017
+Logistic,partner_Yes,0.0861864406779661
+Logistic,payment_method_Mailed check,0.0845762711864406
+Logistic,tech_support_Yes,0.0829903147699758
+Logistic,payment_method_Bank transfer (automatic),0.0828692493946731
+Logistic,multiple_lines_No,0.0797699757869249
+Logistic,total_charges,0.0746973365617433
+Logistic,online_security_Yes,0.0735714285714286
+Logistic,contract_One year,0.0666464891041162
+Logistic,online_backup_Yes,0.0636319612590799
+Logistic,dependents_Yes,0.062590799031477
+Logistic,partner_No,0.0604237288135593
+Logistic,senior_citizen_No,0.0597578692493946
+Logistic,contract_Two year,0.0578450363196125
+Logistic,multiple_lines_Yes,0.0548426150121065
+Logistic,paperless_billing_Yes,0.0519975786924939
+Logistic,payment_method_Electronic check,0.0500847457627119
+Logistic,device_protection_Yes,0.0465980629539951
+Logistic,online_backup_No,0.037772397094431
+Logistic,streaming_tv_No,0.0365738498789346
+Logistic,internet_service_DSL,0.0361016949152542
+Logistic,device_protection_No,0.0347820823244552
+Logistic,tech_support_No,0.0337530266343825
+Logistic,streaming_movies_No internet service,0.0332929782082324
+Logistic,streaming_tv_No internet service,0.0332929782082324
+Logistic,device_protection_No internet service,0.0332929782082324
+Logistic,online_backup_No internet service,0.0332929782082324
+Logistic,tech_support_No internet service,0.0332929782082324
+Logistic,online_security_No internet service,0.0332929782082324
+Logistic,internet_service_No,0.0332929782082324
+Logistic,senior_citizen_Yes,0.0320581113801453
+Logistic,streaming_movies_No,0.0315980629539951
+Logistic,streaming_tv_Yes,0.0290072639225181
+Logistic,online_security_No,0.0279418886198547
+Logistic,dependents_No,0.0275786924939467
+Logistic,streaming_movies_Yes,0.0235108958837772
+Logistic,contract_Month-to-month,0.0218765133171912
+Logistic,multiple_lines_No phone service,0.0200726392251816
+Logistic,monthly_charges,0.0130266343825665
+Logistic,internet_service_Fiber optic,0.0061138014527845
+K-Nearest Neighbors,total_charges,0.0520217917675545
+K-Nearest Neighbors,monthly_charges,0.0179297820823244
+K-Nearest Neighbors,payment_method_Mailed check,0.0157869249394673
+K-Nearest Neighbors,payment_method_Electronic check,0.0131719128329297
+K-Nearest Neighbors,payment_method_Credit card (automatic),0.0122397094430993
+K-Nearest Neighbors,contract_One year,0.0102179176755448
+K-Nearest Neighbors,dependents_No,0.0100363196125908
+K-Nearest Neighbors,payment_method_Bank transfer (automatic),0.0094067796610169
+K-Nearest Neighbors,contract_Month-to-month,0.0093825665859564
+K-Nearest Neighbors,online_backup_Yes,0.0078813559322034
+K-Nearest Neighbors,online_security_Yes,0.0072033898305085
+K-Nearest Neighbors,tech_support_Yes,0.0071065375302663
+K-Nearest Neighbors,contract_Two year,0.0070944309927361
+K-Nearest Neighbors,online_security_No,0.0066101694915254
+K-Nearest Neighbors,multiple_lines_No,0.0063317191283293
+K-Nearest Neighbors,dependents_Yes,0.0060411622276029
+K-Nearest Neighbors,online_backup_No,0.0059685230024213
+K-Nearest Neighbors,partner_No,0.0058474576271186
+K-Nearest Neighbors,tech_support_No,0.005726392251816
+K-Nearest Neighbors,paperless_billing_Yes,0.0057021791767554
+K-Nearest Neighbors,partner_Yes,0.0056779661016949
+K-Nearest Neighbors,paperless_billing_No,0.0054479418886199
+K-Nearest Neighbors,senior_citizen_No,0.0054358353510896
+K-Nearest Neighbors,multiple_lines_Yes,0.0036561743341404
+K-Nearest Neighbors,device_protection_No,0.0034261501210654
+K-Nearest Neighbors,device_protection_Yes,0.0033292978208232
+K-Nearest Neighbors,streaming_tv_No,0.0032929782082324
+K-Nearest Neighbors,internet_service_DSL,0.0027360774818402
+K-Nearest Neighbors,streaming_movies_No,0.0021307506053269
+K-Nearest Neighbors,streaming_tv_Yes,0.0019612590799031
+K-Nearest Neighbors,multiple_lines_No phone service,0.0014648910411622
+K-Nearest Neighbors,senior_citizen_Yes,0.0014527845036319
+K-Nearest Neighbors,internet_service_Fiber optic,0.0013438256658595
+K-Nearest Neighbors,streaming_movies_Yes,0.0011985472154964
+K-Nearest Neighbors,tech_support_No internet service,0.0
+K-Nearest Neighbors,online_backup_No internet service,0.0
+K-Nearest Neighbors,online_security_No internet service,0.0
+K-Nearest Neighbors,internet_service_No,0.0
+K-Nearest Neighbors,device_protection_No internet service,0.0
+K-Nearest Neighbors,streaming_movies_No internet service,0.0
+K-Nearest Neighbors,streaming_tv_No internet service,0.0
+Random Forest,total_charges,0.1303874092009685
+Random Forest,monthly_charges,0.0534140435835351
+Random Forest,tech_support_No,0.0299273607748184
+Random Forest,contract_Two year,0.029818401937046
+Random Forest,contract_Month-to-month,0.025230024213075
+Random Forest,payment_method_Electronic check,0.0249515738498789
+Random Forest,online_security_No,0.0230992736077482
+Random Forest,paperless_billing_No,0.0230629539951574
+Random Forest,online_security_Yes,0.0219975786924939
+Random Forest,contract_One year,0.0191283292978208
+Random Forest,payment_method_Credit card (automatic),0.01909200968523
+Random Forest,tech_support_Yes,0.0179055690072639
+Random Forest,partner_Yes,0.0152663438256658
+Random Forest,payment_method_Mailed check,0.0151331719128329
+Random Forest,payment_method_Bank transfer (automatic),0.013728813559322
+Random Forest,multiple_lines_No,0.0127481840193705
+Random Forest,internet_service_Fiber optic,0.0117554479418886
+Random Forest,online_backup_Yes,0.0116222760290557
+Random Forest,partner_No,0.0115980629539952
+Random Forest,online_backup_No,0.0115738498789346
+Random Forest,streaming_movies_No,0.0114891041162227
+Random Forest,dependents_Yes,0.0108232445520581
+Random Forest,senior_citizen_No,0.0098062953995157
+Random Forest,paperless_billing_Yes,0.0097336561743341
+Random Forest,internet_service_DSL,0.0089467312348668
+Random Forest,multiple_lines_Yes,0.0088256658595642
+Random Forest,device_protection_No,0.0086319612590799
+Random Forest,streaming_tv_No,0.0078450363196126
+Random Forest,dependents_No,0.0078087167070218
+Random Forest,device_protection_Yes,0.0075302663438257
+Random Forest,senior_citizen_Yes,0.0070702179176755
+Random Forest,streaming_movies_Yes,0.006452784503632
+Random Forest,streaming_tv_Yes,0.0053874092009685
+Random Forest,multiple_lines_No phone service,0.0009443099273608
+Random Forest,streaming_movies_No internet service,0.0005811138014528
+Random Forest,streaming_tv_No internet service,0.0001937046004843
+Random Forest,online_security_No internet service,0.0001937046004843
+Random Forest,online_backup_No internet service,0.0001089588377724
+Random Forest,internet_service_No,4.842615012108364e-05
+Random Forest,tech_support_No internet service,2.4213075060552924e-05
+Random Forest,device_protection_No internet service,2.4213075060552924e-05
+Random Forest,total_charges,0.1282929782082325
+Random Forest,monthly_charges,0.047772397094431
+Random Forest,payment_method_Mailed check,0.0236319612590799
+Random Forest,payment_method_Electronic check,0.0221912832929782
+Random Forest,payment_method_Credit card (automatic),0.0178571428571429
+Random Forest,paperless_billing_No,0.0168523002421307
+Random Forest,payment_method_Bank transfer (automatic),0.0158595641646489
+Random Forest,multiple_lines_No,0.0132929782082324
+Random Forest,partner_Yes,0.0106174334140436
+Random Forest,partner_No,0.0105084745762712
+Random Forest,online_security_No,0.0094430992736078
+Random Forest,contract_Two year,0.0091888619854721
+Random Forest,contract_Month-to-month,0.0091525423728814
+Random Forest,paperless_billing_Yes,0.0088983050847458
+Random Forest,tech_support_Yes,0.0087651331719128
+Random Forest,senior_citizen_Yes,0.0086319612590799
+Random Forest,online_security_Yes,0.0080992736077482
+Random Forest,online_backup_No,0.0080871670702179
+Random Forest,tech_support_No,0.0076513317191283
+Random Forest,online_backup_Yes,0.0075060532687651
+Random Forest,senior_citizen_No,0.0074697336561743
+Random Forest,contract_One year,0.0070217917675545
+Random Forest,streaming_movies_No,0.0069975786924939
+Random Forest,multiple_lines_Yes,0.0068765133171913
+Random Forest,device_protection_No,0.0056053268765133
+Random Forest,streaming_tv_No,0.005181598062954
+Random Forest,dependents_Yes,0.0046973365617433
+Random Forest,dependents_No,0.0045520581113801
+Random Forest,device_protection_Yes,0.0041283292978208
+Random Forest,internet_service_DSL,0.0038861985472155
+Random Forest,streaming_tv_Yes,0.0026997578692494
+Random Forest,streaming_movies_Yes,0.0026997578692493
+Random Forest,internet_service_Fiber optic,0.0020338983050848
+Random Forest,tech_support_No internet service,0.0007990314769976
+Random Forest,internet_service_No,0.0007990314769976
+Random Forest,online_security_No internet service,0.0003510895883777
+Random Forest,online_backup_No internet service,0.0003510895883777
+Random Forest,device_protection_No internet service,0.0003510895883777
+Random Forest,streaming_movies_No internet service,0.0002421307506053
+Random Forest,streaming_tv_No internet service,4.842615012106144e-05
+Random Forest,multiple_lines_No phone service,3.631961259080719e-05
+Logistic2,total_charges,0.0826755852842809
+Logistic2,internet_service_Fiber optic,0.011638795986622
+Logistic2,contract_Month-to-month,0.0095317725752508
+Logistic2,internet_service_DSL,0.0068227424749163
+Logistic2,contract_Two year,0.0042809364548494
+Logistic2,payment_method_Electronic check,0.0031772575250835
+Logistic2,streaming_tv_Yes,0.0024414715719063
+Logistic2,payment_method_Credit card (automatic),0.0010367892976588
+Logistic2,online_security_Yes,0.0008361204013377
+Logistic2,online_backup_No,0.0006354515050167
+Logistic2,monthly_charges,0.0001003344481605
+Logistic2,senior_citizen_No,3.3444816053518346e-05
+Logistic2,senior_citizen_Yes,3.3444816053518346e-05
+Logistic2,partner_No,3.344481605350724e-05
+Logistic2,partner_Yes,3.344481605350724e-05
+Logistic2,payment_method_Bank transfer (automatic),-6.688963210701448e-05
+Logistic2,contract_One year,-0.000133779264214
+Logistic2,streaming_tv_No,-0.0001672240802675
+Logistic2,tech_support_Yes,-0.0003010033444815
+Logistic2,paperless_billing_No,-0.0003678929765886
+Logistic2,multiple_lines_No phone service,-0.0004347826086956
+Logistic2,online_security_No,-0.0004347826086956
+Logistic2,paperless_billing_Yes,-0.0005351170568561
+Logistic2,tech_support_No,-0.0008026755852842
+Logistic2,device_protection_No,-0.0008361204013378
+Logistic2,streaming_movies_No,-0.0008695652173912
+Logistic2,dependents_No,-0.0011371237458193
+Logistic2,dependents_Yes,-0.0011371237458193
+Logistic2,online_backup_Yes,-0.0016722408026755
+Logistic2,streaming_movies_Yes,-0.001705685618729
+Logistic2,device_protection_Yes,-0.0023411371237458
+Logistic2,online_security_No internet service,-0.002943143812709
+Logistic2,internet_service_No,-0.002943143812709
+Logistic2,streaming_movies_No internet service,-0.002943143812709
+Logistic2,tech_support_No internet service,-0.002943143812709
+Logistic2,online_backup_No internet service,-0.002943143812709
+Logistic2,device_protection_No internet service,-0.002943143812709
+Logistic2,streaming_tv_No internet service,-0.002943143812709
+Logistic2,multiple_lines_No,-0.0029765886287625
+Logistic2,payment_method_Mailed check,-0.0029765886287625
+Logistic2,multiple_lines_Yes,-0.0047157190635451

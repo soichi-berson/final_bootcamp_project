@@ -1,0 +1,20 @@
+Variable,Frequency
+total_charges,4
+monthly_charges,3
+payment_method_Mailed check,3
+payment_method_Electronic check,3
+payment_method_Credit card (automatic),3
+contract_One year,3
+payment_method_Bank transfer (automatic),3
+paperless_billing_No,3
+contract_Month-to-month,2
+multiple_lines_No,2
+partner_Yes,2
+online_security_Yes,2
+dependents_No,1
+online_backup_Yes,1
+tech_support_Yes,1
+tech_support_No,1
+contract_Two year,1
+online_security_No,1
+partner_No,1
