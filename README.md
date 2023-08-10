@@ -1,7 +1,7 @@
 # Final-Bootcamp Project
 
 ## Introduction
-This is an Ironhack Bootcamp final project 2023. Its main purpose is to understand dataset, manuplate data and apply learning machine models. The further analysis is also presented using Tableau. 
+This is the Ironhack Bootcamp final project 2023. Its main purpose is to understand datasets, manipulate data and apply learning machine models. Further analysis is also presented using Tableau. 
 
 ## Project 
 Theme: Telecom customer churn prediction 
@@ -9,7 +9,7 @@ Theme: Telecom customer churn prediction
 Information based on the data by 'Kaggle'(https://www.kaggle.com/datasets/blastchar/telco-customer-churn) is analysed.
 
 
-The results of analysis are shown in 'slides' file.
+The results of the analysis are shown in 'slides' file.
 
 ## Material 
 -`note`: files of Jupyter Notebook.
@@ -21,4 +21,4 @@ The results of analysis are shown in 'slides' file.
 
 
 ## The tableau link 
-https://public.tableau.com/app/profile/soichiro.tanabe/viz/FInal_project_Ironhack_final/IRONHACKFinalProject?publish=yes 
+https://public.tableau.com/app/profile/soichiro.tanabe/viz/FInal_project_Ironhack_final_1/IRONHACKFinalProject?publish=yes
